@@ -1,0 +1,9 @@
+project:
+  title: "Lengua y Herencia"
+  render:
+    - "*.qmd"
+    - "!./docs/lit/"
+    - "README.qmd"
+
+bibliography: ./lit/lengua_y_herencia.bib
+csl: ./lit/apa.csl
